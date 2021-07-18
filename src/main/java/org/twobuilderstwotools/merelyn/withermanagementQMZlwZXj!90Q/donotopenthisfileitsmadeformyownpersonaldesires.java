@@ -1,4 +1,4 @@
-package org.twobuilderstwotools.tristan.TwoBuildersTwoToolsWitherManager;
+package org.twobuilderstwotools.merelyn.TwoBuildersTwoToolsWitherManager;
 
 import org.bukkit.Location;
 import org.bukkit.configuration.file.FileConfiguration;
