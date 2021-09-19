@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.2b2t.tristan</groupId>
+    <groupId>org.2b2t.merelyn</groupId>
     <artifactId>2B2TWitherManager</artifactId>
     <version>1.0-SNAPSHOT</version>
 
